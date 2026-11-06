@@ -1,0 +1,7 @@
+2026-11-06 11:17:25 [main] INFO  Log - Starting Webdriver...
+2026-11-06 11:17:26 [main] INFO  Log - Opening Chrome browser
+2026-11-06 11:17:26 [main] INFO  Log - Chrome browser maximized
+2026-11-06 11:17:28 [main] INFO  Log - Launched Admin portal
+2026-11-06 11:17:29 [main] INFO  Log - Username entered.
+2026-11-06 11:17:29 [main] INFO  Log - Password entered.
+2026-11-06 11:17:33 [main] INFO  Log - Clicked on Submit button.
