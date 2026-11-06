@@ -35,7 +35,6 @@ public class DashboardTest extends BaseClass{
 		dashboardPage = new DashboardPage(driver);
 	}
 		
-	
 	@Test
 	public void verifyLogedInSuccessfullyAndDBpageIsOpened()
 	{
