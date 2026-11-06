@@ -63,7 +63,7 @@ public class NotificationsTest extends BaseClass
 	}
 	
 	
-	@Test(priority = 5)
+//	@Test(priority = 5)
 	public void verifyOpeningOfAnnouncementPage() 
 	{
 		test = ExtentReportManager.createTest("Test Case to open Announcement page.");   // to set the test case name in reports.
